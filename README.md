@@ -5,6 +5,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white)
 
 
+
 Este é um sistema simples em Python que permite o cadastro de usuários e oferece funcionalidades restritas ao administrador. O objetivo principal é demonstrar conceitos básicos de programação, como validação de entrada, controle de fluxo e manipulação de listas.
 
 ##  Funcionalidades
